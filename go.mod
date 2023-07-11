@@ -1,3 +1,3 @@
-module github.com/OskarKwoczka/animalPackage
+module mymodule
 
 go 1.20
