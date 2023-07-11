@@ -1,7 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/OskarKwoczka/puppy"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	var s1 string
+	var s2 string
+	s1 = puppy.Bark()
+	s2 = puppy.Barks()
+	// s1 := puppy.Bark()
+	// s2 := puppy.Barks()
+	fmt.Println(s1)
+	fmt.Println(s2)
 }
