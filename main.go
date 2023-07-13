@@ -10,7 +10,7 @@ func main() {
 	var s1 string
 	var s2 string
 	s1 = puppy.Bark()
-	s2 = puppy.Barks()
+	s2 = puppy.BigBark()
 	// s1 := puppy.Bark()
 	// s2 := puppy.Barks()
 	fmt.Println(s1)
