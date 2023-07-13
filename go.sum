@@ -1,4 +1,4 @@
 github.com/OskarKwoczka/dog v0.0.0-20230713182825-2c68996ede78 h1:jM1lxr+LXg1eGJrJySdhpzmj0BGQRJ9peGEGIQUP2m8=
 github.com/OskarKwoczka/dog v0.0.0-20230713182825-2c68996ede78/go.mod h1:3/nOwKytnP5FqG4L5+tW/hoLl1J7Y+evUMlfhGLzpsM=
-github.com/OskarKwoczka/puppy v0.0.0-20230713183251-ea1916b8439d h1:ieX2FSKtx95Le/mlND78ejNVqucYCq2rYMMKRxQLmS4=
-github.com/OskarKwoczka/puppy v0.0.0-20230713183251-ea1916b8439d/go.mod h1:xkC7zXPVeDFCcFzpFTDIz6wJrvPwEGtpCKt5S0G1dC0=
+github.com/OskarKwoczka/puppy v1.4.0 h1:hdyEhYi9wDRmDxZAXIZ8oAFLLGxE3uTBuiSJHw2NYiE=
+github.com/OskarKwoczka/puppy v1.4.0/go.mod h1:xkC7zXPVeDFCcFzpFTDIz6wJrvPwEGtpCKt5S0G1dC0=
